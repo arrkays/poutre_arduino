@@ -1,5 +1,5 @@
 #include <MD_Parola.h>
-#include <MD_MAX72xx.h>
+//#include <MD_MAX72xx.h>
 #include <SPI.h>
 
 #define HARDWARE_TYPE MD_MAX72XX::ICSTATION_HW
